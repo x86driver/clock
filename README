@@ -1,0 +1,6 @@
+Usage:
+
+1. mkdir pro/verilog
+2. open modelsim and select destination to pro/verilog/clock
+3. compile and simulate
+4. All you need is add *.v to git
